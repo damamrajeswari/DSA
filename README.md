@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-increasing-decreasing-string](https://github.com/damamrajeswari/DSA/tree/master/1370-increasing-decreasing-string) |
+## Linked List
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/damamrajeswari/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/damamrajeswari/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
