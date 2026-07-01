@@ -16,9 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/damamrajeswari/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/damamrajeswari/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/damamrajeswari/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
+## Two Pointers
+|  |
+| ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/damamrajeswari/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
