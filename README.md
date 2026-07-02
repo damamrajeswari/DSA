@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0817-linked-list-components](https://github.com/damamrajeswari/DSA/tree/master/0817-linked-list-components) |
 | [1370-increasing-decreasing-string](https://github.com/damamrajeswari/DSA/tree/master/1370-increasing-decreasing-string) |
 ## String
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0817-linked-list-components](https://github.com/damamrajeswari/DSA/tree/master/0817-linked-list-components) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/damamrajeswari/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/damamrajeswari/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/damamrajeswari/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/damamrajeswari/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Array
+|  |
+| ------- |
+| [0817-linked-list-components](https://github.com/damamrajeswari/DSA/tree/master/0817-linked-list-components) |
 <!---LeetCode Topics End-->
