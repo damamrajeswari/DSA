@@ -46,5 +46,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/damamrajeswari/DSA/tree/master/0485-max-consecutive-ones) |
 | [0817-linked-list-components](https://github.com/damamrajeswari/DSA/tree/master/0817-linked-list-components) |
 <!---LeetCode Topics End-->
