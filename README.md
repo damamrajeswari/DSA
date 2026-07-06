@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/damamrajeswari/DSA/tree/master/0485-max-consecutive-ones) |
 | [0817-linked-list-components](https://github.com/damamrajeswari/DSA/tree/master/0817-linked-list-components) |
+| [1288-remove-covered-intervals](https://github.com/damamrajeswari/DSA/tree/master/1288-remove-covered-intervals) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/damamrajeswari/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Greedy
 |  |
@@ -56,5 +57,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/damamrajeswari/DSA/tree/master/1288-remove-covered-intervals) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/damamrajeswari/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 <!---LeetCode Topics End-->
