@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/damamrajeswari/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/damamrajeswari/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/damamrajeswari/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Stack
 |  |
 | ------- |
