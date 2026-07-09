@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/damamrajeswari/DSA/tree/master/0500-keyboard-row) |
 | [0817-linked-list-components](https://github.com/damamrajeswari/DSA/tree/master/0817-linked-list-components) |
 | [1370-increasing-decreasing-string](https://github.com/damamrajeswari/DSA/tree/master/1370-increasing-decreasing-string) |
 ## String
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/damamrajeswari/DSA/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/damamrajeswari/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1370-increasing-decreasing-string](https://github.com/damamrajeswari/DSA/tree/master/1370-increasing-decreasing-string) |
 ## Counting
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/damamrajeswari/DSA/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/damamrajeswari/DSA/tree/master/0500-keyboard-row) |
 | [0817-linked-list-components](https://github.com/damamrajeswari/DSA/tree/master/0817-linked-list-components) |
 | [1288-remove-covered-intervals](https://github.com/damamrajeswari/DSA/tree/master/1288-remove-covered-intervals) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/damamrajeswari/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
