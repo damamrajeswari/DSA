@@ -100,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/damamrajeswari/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/damamrajeswari/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
