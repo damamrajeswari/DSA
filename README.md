@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0274-h-index](https://github.com/damamrajeswari/DSA/tree/master/0274-h-index) |
 | [0485-max-consecutive-ones](https://github.com/damamrajeswari/DSA/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/damamrajeswari/DSA/tree/master/0500-keyboard-row) |
 | [0817-linked-list-components](https://github.com/damamrajeswari/DSA/tree/master/0817-linked-list-components) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/damamrajeswari/DSA/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/damamrajeswari/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/damamrajeswari/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/damamrajeswari/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/damamrajeswari/DSA/tree/master/1291-sequential-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/damamrajeswari/DSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
