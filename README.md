@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/damamrajeswari/DSA/tree/master/0223-rectangle-area) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/damamrajeswari/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/damamrajeswari/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/damamrajeswari/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/damamrajeswari/DSA/tree/master/1260-shift-2d-grid) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/damamrajeswari/DSA/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
