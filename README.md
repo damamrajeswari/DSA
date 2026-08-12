@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/damamrajeswari/DSA/tree/master/0817-linked-list-components) |
 | [1331-rank-transform-of-an-array](https://github.com/damamrajeswari/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1370-increasing-decreasing-string](https://github.com/damamrajeswari/DSA/tree/master/1370-increasing-decreasing-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/damamrajeswari/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/damamrajeswari/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/damamrajeswari/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/damamrajeswari/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/damamrajeswari/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/damamrajeswari/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/damamrajeswari/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Greedy
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/damamrajeswari/DSA/tree/master/0223-rectangle-area) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/damamrajeswari/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
