@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/damamrajeswari/DSA/tree/master/0009-palindrome-number) |
 | [0223-rectangle-area](https://github.com/damamrajeswari/DSA/tree/master/0223-rectangle-area) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/damamrajeswari/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/damamrajeswari/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
