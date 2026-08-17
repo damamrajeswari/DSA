@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/damamrajeswari/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/damamrajeswari/DSA/tree/master/0141-linked-list-cycle) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/damamrajeswari/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/damamrajeswari/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/damamrajeswari/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0274-h-index](https://github.com/damamrajeswari/DSA/tree/master/0274-h-index) |
 | [0485-max-consecutive-ones](https://github.com/damamrajeswari/DSA/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/damamrajeswari/DSA/tree/master/0500-keyboard-row) |
