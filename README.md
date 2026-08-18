@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/damamrajeswari/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1370-increasing-decreasing-string](https://github.com/damamrajeswari/DSA/tree/master/1370-increasing-decreasing-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/damamrajeswari/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/damamrajeswari/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/damamrajeswari/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/damamrajeswari/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/damamrajeswari/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/damamrajeswari/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/damamrajeswari/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/damamrajeswari/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Greedy
